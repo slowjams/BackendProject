@@ -1,5 +1,3 @@
-# InfoTrack .NET Core MidLevel Tech Test
-
 - [Description](#description)
 - [Your Mission](#your-mission)
 - [Getting Started](#getting-started)
